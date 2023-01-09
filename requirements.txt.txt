@@ -1,0 +1,9 @@
+streamlit==1.14.0
+pandas==1.5.1
+numpy==1.23.4
+Pillow==9.3.0
+matplotlib==3.6.2
+selenium==4.6.0
+spacy==3.4.2
+spacytextblob==4.0.0
+wordcloud==1.8.2.2
